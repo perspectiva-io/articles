@@ -1,18 +1,24 @@
 My goal is not to undermine religion. Religion can play its positive roles without all of the fancy doctrines that theologians construct. Most religious believers love the songs, stories, rituals, communities, and moral teachings of their religions. They do not understand or care much about obscure details of theology. Indeed, many people would come to doubt their religion if they thought through the extreme theories of theologians. Dubious doctrines, no matter how popular, weaken religion by making it more questionable. So the faithful should not worry about reconsidering dubious doctrines. They should welcome this enterprise with an open mind.
 One particular collection of doctrines will be my target here. According to traditional (even if not original) Christianity, God is defined to be:
-•	All-good (= God always does the best that He can) 
-•	All-powerful (= God can do anything that is logically possible) 
-•	All-knowing (= God knows everything that is true) 
-•	Eternal (= God exists outside of time) 
-•	Effective (= God causes changes in time) 
-•	Personal (= God has a will and makes choices)  
+
+* All-good (= God always does the best that He can) 
+* All-powerful (= God can do anything that is logically possible) 
+* All-knowing (= God knows everything that is true) 
+* Eternal (= God exists outside of time) 
+* Effective (= God causes changes in time) 
+* Personal (= God has a will and makes choices)  
+
 From now on, when I refer to God, I will mean a being with these defining features. When I argue against the existence of God, I will be arguing that nothing has all of these features. 
 My arguments will not be proofs in the mathematical sense. I don’t see how there could be any absolutely conclusive proof of any view about God, either that He does exist or that He does not exist. There is not much, if anything, of importance that one can prove with certainty beyond any doubt whatsoever. So I won’t even try to give a conclusive proof. What I will give is adequate evidence against the existence of God. That is enough to justify the belief that God does not exist.  
 This evidence comes in the form of three arguments (although more could be given). None of these arguments is original. Still, they are worth repeating, because many people do not fully appreciate their force.
-1.	The Problem of Evil  
+
+# 1. The Problem of Evil  
+
 My first argument focuses on the first three defining features of God. It is very common and simple: There is lots of evil in the world. There would not be so much evil if there were an all-good and all- powerful God. Therefore, there is no such God.
 Notice that each bit of unjustified evil is evidence against God, according to this argument. If I claimed to be all-good, one bad act would refute me. If I claimed to be all-powerful, you could disprove this claim by finding one thing that I cannot lift. Similarly, even one bit of unjustified evil disproves the existence of God. Still, it is worth adding that there is lots of evil in the world. Many children through the centuries have been born with intestinal blockages. There are many more kinds of birth defects that lead to short lives filled with intense suffering. Every day many children die from disease or mal- nutrition. The world includes floods, hurricanes, tornadoes, volcanoes, earthquakes, lightning, and many other natural disasters. Children and adults get trapped under rubble and then die after hours of horrible suffering. Take any individual natural disaster. An all-powerful God could prevent this natural disaster from occurring. He could do so without harming people as much as they are harmed by the natural disaster. So there seems to be no adequate reason why He should let these natural disasters occur. That means that God would not let them occur if He were all-good. But they do occur. So there is ample evidence against the existence of any all-powerful, all-good God.
-2. The Problem of Action
+
+# 2. The Problem of Action
+
 In addition to being all-good and all-powerful, the traditional Christian God is also defined as eternal and active in time. These additional properties lead to new problems.
 To say that God is eternal is to say that He exists outside of time. This kind of existence is mysterious, but it can be explained by anal- ogy with numbers. The number three is what the numeral “3” refers to. A numeral is a symbol that can be written down at a particular time and place. In contrast, a number is not the kind of thing that can ever be written down.
 To see how peculiar numbers are, consider how you would react if anyone said that the number three exists in North America but not in Antarctica. Antarctica lacks many things that we take for granted in North America, but not numbers. You know this without looking around Antarctica. What would you look for? This point about space applies also to time. If anyone said that, although the number three exists today, it did not exist in the days of dinosaurs, then you would sneer without checking the fossil record. Again, what would you check for? This shows that, if numbers exist, they do not exist at some times and places as opposed to others. Moreover, numbers exist or fail to exist equally at all times and places. A number cannot get bigger or smaller or change in any way.
@@ -21,7 +27,9 @@ If the number three exists outside of time, this keeps it from causing any chang
 More generally, the cause of any event must bear the right rela- tion in time to that event. In a baseball game, if I swing at a pitch too soon, I will miss. If I swing too late, I will miss. The only way to hit a ball is to swing at just the right time (and in just the right place). If the number three exists outside of time, it cannot hit a ball or cause any event within time. Slogan: If you are not in time, you are inert.
 The same restriction applies for the same reasons to any God who is outside of time. Such a God cannot change or exert force at just the right time, so He cannot cause changes within time. This result has been overlooked by many traditional Christian theologians, but it does follow from their doctrine of eternity.
 The problem is that the traditional Christian God is also supposed to be active in time. He is supposed to have created the world, to cause miracles, to answer prayers, to be incarnated, and so on. None of this makes sense if God really is eternal and, hence, outside of time. If God has one of these traditional features, then He cannot have the other. Consequently, there cannot be a God who is both eternal and also active in time.
-3. The Argument from Ignorance
+
+# 3. The Argument from Ignorance
+
 One principle that is accepted throughout science and everyday life is that we should not believe in entities for which we have no evidence. No good scientist would believe in a new element or particle or force without evidence. Any scientist who did claim to have discovered a new particle but who could not produce any evidence for it would be laughed out of town.
 This rule applies with special force when an entity is unusual in important respects. If someone believes that there are clothes in my closet, then he might not seem to need any evidence for this belief other than his past experiences of closets, most of which contained clothes. However, no evidence like this is available, and the need for evidence seems especially strong, when someone believes in a kind of entity that is unprecedented. Nobody should believe that there is a perfect shirt or an invisibility cloak in the closet without any evidence for the existence of such an oddity. I hope everyone agrees in that case.
 Religion might seem different. Religion is often said to be im- mune from the standards of science, because it lies outside the realm where evidence is possible. But this view leads to absurdity. If the fact that a religious belief cannot be subject to evidence did license one to accept that belief without evidence, then the same principle would also license many ridiculous beliefs.
